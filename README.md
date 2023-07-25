@@ -4,6 +4,7 @@ This project is intended to provide a basic example of how to load and perform s
 ## Dataset
 
 The example use the HistologyHSI-GB, which contains 469 hyperspectral images from 13 patients diagnosed with brain tumours, specifically glioblastoma.
+
 -Histological Hyperspectral Glioblastoma Dataset (HistologyHSI-GB) (link)
 
 ## Usage
