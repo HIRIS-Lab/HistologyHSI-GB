@@ -2,9 +2,18 @@
 This notebook is intended to provide an basic example of how to load and perform some basic preprocessing to hyperspectral data in ENVI format using Python.
 This notebook was designed as a basic demonstration on how to load the data corresponding to the Histological Hyperspectral Glioblastoma Dataset (HistologyHSI-GB) [REF].
 
-## Resources
+## Dataset
 
+The example use the HistologyHSI-GB, which contains 469 hyperspectral images from 13 patients diagnosed with brain tumours, specifically glioblastoma.
 -Histological Hyperspectral Glioblastoma Dataset (HistologyHSI-GB) (link)
+
+## Usage
+
+This repository contains the following scripts:
+* `main.ipynb`:
+* 
+
+
 
 ## Documentation
 
