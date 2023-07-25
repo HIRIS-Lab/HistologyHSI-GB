@@ -15,7 +15,7 @@ This repository contains the following scripts:
 ## Dependencies
 
 1. MATLAB script requires:
-  -Image Processing Toolbox Hyperspectral Imaging Library
+   - Image Processing Toolbox Hyperspectral Imaging Library
 2. Python script rquires:
    - Spectral Python (SPy). Python module for hyperspectral image processing. https://www.spectralpython.net
    - Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). https://doi.org/10.1038/s41586-020-2649-2
