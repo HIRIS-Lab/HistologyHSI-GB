@@ -3,7 +3,7 @@ This project is intended to provide a basic example of how to load and perform s
 
 ## Dataset 
 
-The example use the HistologyHSI-GB, which contains 469 hyperspectral images from 13 patients diagnosed with brain tumours, specifically glioblastoma.
+The example use the HistologyHSI-GB, which contains 469 hyperspectral images from 13 patients diagnosed with brain tumours, specifically glioblastoma. More information about the dataset can be found on:
 
 - [Histological Hyperspectral Glioblastoma Dataset in TCIA](https://doi.org/10.7937/Z1K6-VD17): Ortega, S., Fabelo, H., Quintana-Quintana, L., Leon, R., Plaza, M.d.l.L., Camacho, R., & Callico, G. M. (2024). Hyperspectral Histological Images for Diagnosis of Human Glioblastoma (HistologyHSI-GB) (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/Z1K6-VD17
 - [Data descriptor in Scientific Data](https://doi.org/10.1038/s41597-024-03510-x): Ortega, S., Quintana-Quintana, L., Leon, R. et al. Histological Hyperspectral Glioblastoma Dataset (HistologyHSI-GB). Sci Data 11, 681 (2024). https://doi.org/10.1038/s41597-024-03510-x
@@ -26,7 +26,7 @@ This repository contains the following scripts:
 
 ## Documentation
 
-See the latest documentation at (link paper)
+See the latest documentation at the Data descriptor, published in Scientific Data: https://doi.org/10.1038/s41597-024-03510-x
 
 ## License
 
